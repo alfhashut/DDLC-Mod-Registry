@@ -1,4 +1,12 @@
 {
   "format_version": 1,
-  "mods": []
+  "mods": [
+    {
+      "id": "salvation-remake",
+      "name": "Salvation Remake",
+      "author": "12gizguy6",
+      "description": "A Sayori-focused DDLC mod about getting a second chance to prevent the events of the original story.",
+      "page_url": "https://dokimods.me/mods/salvation-remake/"
+    }
+  ]
 }
