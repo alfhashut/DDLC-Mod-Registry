@@ -7,7 +7,13 @@
       "author": "12gizguy6",
       "description": "A Sayori-focused DDLC mod about getting a second chance to prevent the events of the original story.",
       "page_url": "https://dokimods.me/mods/salvation-remake/",
-      "page_source": "DokiMods"
+      "page_source": "DokiMods",
+      "download": {
+        "source": "MediaFire",
+        "page_url": "https://www.mediafire.com/file/qpjxz4xx92q6djj/DokiDokiSalvRemakeFINALDDMC-ReleaseDDMC1.2-Renpy7Mod.zip/file",
+        "file_name": "DokiDokiSalvRemakeFINALDDMC-ReleaseDDMC1.2-Renpy7Mod.zip",
+        "sha256": "2c765405cd95342eb23ef96be862c68f00c4d98cd86e9575a4565e3be3d73be1"
+      }
     }
   ]
 }
