@@ -93,6 +93,22 @@
         "file_name": "DokiDokiBlueSkies1.0.6.zip",
         "sha256": "4dce965184ff8b0d5be543d66a4805b4fb5a7c86d9b8988da3975137af5e4334"
       }
+    },
+    {
+      "id": "salvation",
+      "name": "Doki Doki Salvation",
+      "author": "12Gizguy6",
+      "version": "1.1",
+      "description": "A Sayori-focused DDLC mod about preventing the tragedy at the end of Act 1 and dealing with what follows.",
+      "page_url": "https://dokimods.me/mods/salvation",
+      "page_source": "DokiMods",
+      "download": {
+        "source": "MEGA",
+        "method": "mega",
+        "page_url": "https://mega.nz/file/bCwESCaA#emn70pPnGeFWE_djaP0lTkPg2AYXRiaa7VOLMcsBnhc",
+        "file_name": "Doki Doki Salvation 1.1.zip",
+        "sha256": "a7ab97421b8f3ed9caeb4058f15655346dbebcccaedff6082e8b9b847faeb78e"
+      }
     }
   ]
 }
