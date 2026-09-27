@@ -60,6 +60,23 @@
         "file_name": "DokiDokiSliceofLife-1.0.0-Mod.zip",
         "sha256": "e6b4fcfc65ebf2a92c308d871f7ce375011b9bfeab32e19944dd4de0f968d4c6"
       }
+    },
+    {
+      "id": "monika-after-story",
+      "name": "Monika After Story",
+      "author": "Monika After Story Team",
+      "version": "0.12.19",
+      "description": "A DDLC mod that continues Monika's story after the events of the original game.",
+      "page_url": "https://www.monikaafterstory.com/",
+      "page_source": "Monika After Story",
+      "download": {
+        "source": "GitHub",
+        "method": "direct",
+        "page_url": "https://github.com/Monika-After-Story/MonikaModDev/releases/tag/v0.12.19",
+        "direct_url": "https://github.com/Monika-After-Story/MonikaModDev/releases/download/v0.12.19/Monika_After_Story-0.12.19-Mod.zip",
+        "file_name": "Monika_After_Story-0.12.19-Mod.zip",
+        "sha256": "58a96c1649b8824169c65885b30db5ddac88104a8f018e76f8ace25e5ee6af62"
+      }
     }
   ]
 }
