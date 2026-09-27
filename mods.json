@@ -77,6 +77,22 @@
         "file_name": "Monika_After_Story-0.12.19-Mod.zip",
         "sha256": "58a96c1649b8824169c65885b30db5ddac88104a8f018e76f8ace25e5ee6af62"
       }
+    },
+    {
+      "id": "blue-skies",
+      "name": "Doki Doki Blue Skies",
+      "author": "Blue Dissonance Development",
+      "version": "1.0.6",
+      "description": "A choice-driven DDLC mod with routes for Sayori, Yuri, and Natsuki.",
+      "page_url": "https://blueskiesmod.club/",
+      "page_source": "Blue Skies",
+      "download": {
+        "source": "Google Drive",
+        "method": "google_drive",
+        "page_url": "https://drive.google.com/file/d/1p47OBzNvJzpTeq5NflQAG-k9jxoYJXyA/view?usp=sharing",
+        "file_name": "DokiDokiBlueSkies1.0.6.zip",
+        "sha256": "4dce965184ff8b0d5be543d66a4805b4fb5a7c86d9b8988da3975137af5e4334"
+      }
     }
   ]
 }
