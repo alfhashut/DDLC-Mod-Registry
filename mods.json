@@ -30,6 +30,21 @@
         "file_name": "DokiDokiDigitalClub-1.0EN.7z",
         "sha256": "e562e5848f9ede1bc158a1d7c5a7c8b6fc4342839482861a4143ba4b963747f1"
       }
+    },
+    {
+      "id": "the-outside-remastered",
+      "name": "The Outside: Remastered",
+      "author": "Twilight",
+      "description": "An adventure/drama DDLC mod by Twilight, currently in development.",
+      "page_url": "https://dokimods.me/mods/the-outside-remastered",
+      "page_source": "DokiMods",
+      "download": {
+        "source": "Google Drive",
+        "method": "google_drive",
+        "page_url": "https://drive.google.com/file/d/1s-Eod6K0nuaS8iEUXl0wkiVwvHnCx7rv/view",
+        "file_name": "TheOutsideDDLC-1.0.zip",
+        "sha256": "c5164c7a0138f91bb11cfc969fa7375874106110404d7ad543c1e08132ceb5c7"
+      }
     }
   ]
 }
