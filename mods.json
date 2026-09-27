@@ -45,6 +45,21 @@
         "file_name": "TheOutsideDDLC-1.0.zip",
         "sha256": "c5164c7a0138f91bb11cfc969fa7375874106110404d7ad543c1e08132ceb5c7"
       }
+    },
+    {
+      "id": "a-slice-of-life",
+      "name": "A Slice of Life",
+      "author": "kmsrocks1 and ogsnakebone",
+      "description": "A short romance/comedy DDLC mod about getting another chance to save the club members.",
+      "page_url": "https://dokimods.me/mods/a-slice-of-life/",
+      "page_source": "DokiMods",
+      "download": {
+        "source": "MEGA",
+        "method": "mega",
+        "page_url": "https://mega.nz/file/HLhFXLZB#f9um-b32gXWaYoX0tVgbmb_ENngDMUtu-lmWQWb4bO4",
+        "file_name": "DokiDokiSliceofLife-1.0.0-Mod.zip",
+        "sha256": "e6b4fcfc65ebf2a92c308d871f7ce375011b9bfeab32e19944dd4de0f968d4c6"
+      }
     }
   ]
 }
